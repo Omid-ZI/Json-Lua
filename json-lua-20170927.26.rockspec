@@ -6,9 +6,6 @@ source = {
 }
 description = {
   summary = "JSON encoder/decoder",
-  detailed = [[
-    Forked from JSON.lua
-  ]],
   homepage = "https://github.com/Omid-ZI/Json-lua",
   license = "CC"
 }
