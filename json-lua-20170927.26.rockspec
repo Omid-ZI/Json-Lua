@@ -1,5 +1,4 @@
-
-package = "json-lua"
+package = "Json-Lua"
 version = "20170927.26"
 source = {
   url = "git://github.com/Omid-ZI/Json-lua"
@@ -7,7 +6,6 @@ source = {
 description = {
   summary = "JSON encoder/decoder",
   homepage = "https://github.com/Omid-ZI/Json-lua",
-  license = "CC"
 }
 dependencies = {
   "lua >= 5.1"
